@@ -81,3 +81,4 @@ io.on('connection', function(socket){
 });*/
 
 console.log('listening on port *:8080');
+module.exports = app;
